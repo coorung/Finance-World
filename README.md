@@ -1,2 +1,2 @@
 # Finance
-Hedging methods on financial assets
+Hedging, Investment starategies, Risk measures etc. with ML techniques on financial area
