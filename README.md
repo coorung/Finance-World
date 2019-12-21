@@ -1,2 +1,4 @@
 # Finance
-Hedging, Investment starategies, Risk measures etc. with Optimization techniques on financial area
+Hedging, Investment starategies, Risk measures etc. with Optimization techniques on Financial area
+
+(On going)
