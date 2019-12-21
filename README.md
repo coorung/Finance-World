@@ -1,2 +1,2 @@
 # Hedging
-Hedging methods to financial assets
+Hedging methods on financial assets
