@@ -1,5 +1,5 @@
 # Finance World
-Hedging, Investment starategies, Risk measures etc. with Optimization techniques on the financial area
+Optimization techniques on the financial area for hedging, investment starategies, risk measures
 
 (*on going*)
 
