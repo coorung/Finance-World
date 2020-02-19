@@ -6,18 +6,18 @@ Codes are categoried to Basic & Advanced, as the topic dealt with are Financial 
 ### 1. Modern Portfolio Theory
 ![1. Modern Portfolio Theory](./Basic/fig/1. Modern Portfolio Theory.png)
 ### 2. Return Distribution Analysis with Risk Measure
-
+![2. Return Distribution Analysis with Risk Measure](./Basic/fig/2. Return Distribution Analysis with Risk measure.png)
 ### 3. Naive Classification Procedure for ML Trading
-
+![3. Naive Classification Procedure for ML Trading](./Basic/fig/3. Naive Classification Procedure for ML Trading.png)
 ### 4. ELS Pricing
-
+![4. ELS Pricing](./Basic/fig/4. ELS Pricing.png)
 ### 5. Volatility Surface
-
+![5. Volatility Surface](./Basic/fig/5. Volatility Surface.png)
 
 ## Advanced
 
 ### 1. Hedging Option with Replicating Portfolio
-
+![1. Hedging Option with Replicating Portfolio](./Advanced/fig/1. Hedging Option with Replicating Portfolio.gif)
 ### 2. Pension Planning using HJB eqn
 
 ### 3. Pension Planning with RL
