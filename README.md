@@ -2,6 +2,8 @@
 Optimization techniques on the financial area for the hedging, investment strategies, and risk measures.
 Codes are categoried to Basic & Advanced, as the Financial engineering or Market microstructure concept are included or not. I am trying to visualize it to grasp well but recommend check the reference paper before you give yourself over to code, especially in Advanced folder.
 
+This repository will be added & fixed continuously
+
 ## Basic
 ### 1. Modern Portfolio Theory
 ![MPT](./Basic/fig/1_MPT.png)
@@ -28,7 +30,7 @@ Codes are categoried to Basic & Advanced, as the Financial engineering or Market
 ![4. High Frequency Trading with RL](./Advanced/fig/4_HFT_RL.png)
 
 
-(*on going*)
+(*cont'd*)
 
 MIT License
 
