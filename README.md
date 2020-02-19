@@ -17,13 +17,14 @@ Codes are categoried to Basic & Advanced, as the topic dealt with are Financial 
 ## Advanced
 
 ### 1. Hedging Option with Replicating Portfolio
-![1. Hedging Option with Replicating Portfolio](./Advanced/fig/1. Hedging Option with Replicating Portfolio.gif)
+![1. Hedging Option with Replicating Portfolio](./Advanced/fig/1_ReplicatingPF.gif)
 ### 2. Pension Planning using HJB eqn
-
+![2. Pension Planning using HJB eqn](./Advanced/fig/2_PensionPlan1.png)
+![2. Pension Planning using HJB eqn](./Advanced/fig/2_PensionPlan2.png)
 ### 3. Pension Planning with RL
-
+![3. Pension Planning with RL](./Advanced/fig/3_PensionPlanRL.png)
 ### 4. High Frequency Trading with RL
-
+![4. High Frequency Trading with RL](./Advanced/fig/4_HFT_RL.png)
 
 
 (*on going*)
