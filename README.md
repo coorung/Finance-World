@@ -1,6 +1,6 @@
 # Finance World
 Optimization techniques on the financial area for the hedging, investment strategies, and risk measures.
-Codes are categoried to Basic & Advanced, as the topic dealt with are Financial engineering or Market microstructure concept. I am trying to visualize it to grasp well, but I recommend check the reference paper before you give yourself over to code, especially in 'Advanced' folder.
+Codes are categoried to Basic & Advanced, as the Financial engineering or Market microstructure concept are included or not. I am trying to visualize it to grasp well but recommend check the reference paper before you give yourself over to code, especially in Advanced folder.
 
 ## Basic
 ### 1. Modern Portfolio Theory
