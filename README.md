@@ -10,7 +10,7 @@ Codes are categoried to Basic & Advanced, as the topic dealt with are Financial 
 ### 3. Naive Classification Procedure for ML Trading
 ![3. Naive Classification Procedure for ML Trading](./Basic/fig/3_Classification.png)
 ### 4. ELS Pricing
-![4. ELS Pricing](./Basic/fig/4_ELS.png)
+![4. ELS Pricing](./Basic/fig/4_ELS.jpg)
 ### 5. Volatility Surface
 ![5. Volatility Surface](./Basic/fig/5_Volsurface.png)
 
