@@ -4,7 +4,7 @@ Codes are categoried to Basic & Advanced, as the topic dealt with are Financial 
 
 ## Basic
 ### 1. Modern Portfolio Theory
-![1. Modern Portfolio Theory]('./Basic/fig/1. Modern Portfolio Theory.png')
+![1. Modern Portfolio Theory](./Basic/fig/1. Modern Portfolio Theory.png)
 ### 2. Return Distribution Analysis with Risk Measure
 
 ### 3. Naive Classification Procedure for ML Trading
