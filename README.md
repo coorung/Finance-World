@@ -9,7 +9,7 @@ Codes are categoried to Basic & Advanced, as the Financial engineering or Market
 ![2. Return Distribution Analysis with Risk Measure](./Basic/fig/2_Distribution_Analysis.png)
 ### 3. Naive Classification Procedure for ML Trading
 ![3. Naive Classification Procedure for ML Trading](./Basic/fig/3_Classification.png)
-### 4. ELS Pricing
+### 4. ELS Pricing(Kor)
 (following figure is just for show structure of ELS. Code result is just price)
 ![4. ELS Pricing](./Basic/fig/4_ELS.jpg)
 ### 5. Volatility Surface
@@ -17,7 +17,7 @@ Codes are categoried to Basic & Advanced, as the Financial engineering or Market
 
 ## Advanced
 
-### 1. Hedging Option with Replicating Portfolio
+### 1. Hedging Option with Replicating Portfolio(Kor)
 ![1. Hedging Option with Replicating Portfolio](./Advanced/fig/1_ReplicatingPF.gif)
 ### 2. Pension Planning using HJB eqn
 ![2. Pension Planning using HJB eqn](./Advanced/fig/2_PensionPlan1.png)
