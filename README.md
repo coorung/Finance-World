@@ -4,15 +4,15 @@ Codes are categoried to Basic & Advanced, as the topic dealt with are Financial 
 
 ## Basic
 ### 1. Modern Portfolio Theory
-![MPT](./Basic/fig/MPT.png)
+![MPT](./Basic/fig/1_MPT.png)
 ### 2. Return Distribution Analysis with Risk Measure
-![2. Return Distribution Analysis with Risk Measure](./Basic/fig/2. Return Distribution Analysis with Risk measure.png)
+![2. Return Distribution Analysis with Risk Measure](./Basic/fig/2_Distribution_Analysis.png)
 ### 3. Naive Classification Procedure for ML Trading
-![3. Naive Classification Procedure for ML Trading](./Basic/fig/3. Naive Classification Procedure for ML Trading.png)
+![3. Naive Classification Procedure for ML Trading](./Basic/fig/3_Classification.png)
 ### 4. ELS Pricing
-![4. ELS Pricing](./Basic/fig/4. ELS Pricing.png)
+![4. ELS Pricing](./Basic/fig/4_ELS Pricing.png)
 ### 5. Volatility Surface
-![5. Volatility Surface](./Basic/fig/5. Volatility Surface.png)
+![5. Volatility Surface](./Basic/fig/5_Volsurface.png)
 
 ## Advanced
 
