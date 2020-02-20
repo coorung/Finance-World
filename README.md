@@ -12,7 +12,7 @@ This repository will be added & fixed continuously
 ### 3. Naive Classification Procedure for ML Trading
 ![3. Naive Classification Procedure for ML Trading](./Basic/fig/3_Classification.png)
 ### 4. ELS Pricing(Kor)
-(following figure is just for show structure of ELS. Code result is just price)
+(The figure below is only intended to show the structure of the ELS. Code result is just a price of ELS)
 ![4. ELS Pricing](./Basic/fig/4_ELS.jpg)
 ### 5. Volatility Surface
 ![5. Volatility Surface](./Basic/fig/5_Volsurface.png)
